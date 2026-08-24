@@ -2,7 +2,7 @@
 
 ### 🤖 B.Tech CSE (AI & ML) Student | Aspiring AI/ML Engineer
 
-I'm a second-year **B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning** at Rajiv Gandhi Memorial College of Engineering.
+I'm a third-year **B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning** at Rajiv Gandhi Memorial College of Engineering.
 
 I'm passionate about **Artificial Intelligence, Machine Learning, Cloud Computing, and Software Development**. I'm currently building my technical skills through academic projects, certifications, and hands-on coding.
 
