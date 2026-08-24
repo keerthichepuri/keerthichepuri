@@ -2,80 +2,91 @@
 
 ### 🤖 B.Tech CSE (AI & ML) Student | Aspiring AI/ML Engineer
 
-I'm a third-year **B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning** at Rajiv Gandhi Memorial College of Engineering.
+I'm a second-year **B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning** at Rajiv Gandhi Memorial College of Engineering.
 
-I'm passionate about **Artificial Intelligence, Machine Learning, Cloud Computing, and Software Development**. I'm currently building my technical skills through academic projects, certifications, and hands-on coding.
+I'm passionate about **Artificial Intelligence, Machine Learning, Generative AI, Cloud Computing, and Software Development**. I enjoy learning new technologies, building projects, and improving my programming and problem-solving skills.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 * 🎓 B.Tech CSE – Artificial Intelligence & Machine Learning
 * 📊 CGPA: **8.575**
 * 💻 Interested in **AI, ML, Data Science & Software Development**
-* ☁️ Learning and exploring **AWS Cloud Technologies**
-* 🧠 Interested in **Generative AI**
-* 🔭 Currently improving my programming and development skills
-* 🎯 Goal: Gain practical industry experience through internships and projects
+* ☁️ Exploring **AWS Cloud Technologies**
+* 🤖 Interested in **Generative AI**
+* 🌱 Currently improving my programming and development skills
+* 🔭 Working on academic and personal projects
+* 🎯 Looking for opportunities to gain practical industry experience
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Skills
 
-### 💻 Programming
+### 💻 Programming Languages
 
-* Java
-* Python
-* C
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
+</p>
 
 ### 🌐 Web Technologies
 
-* HTML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
+</p>
 
 ### 🗄️ Databases
 
-* SQL
-* MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
+</p>
 
 ### 🤖 AI & Machine Learning
 
-* Machine Learning Fundamentals
-* Generative AI Concepts
-* Data Science Basics
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=orange" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
+</p>
 
 ### ☁️ Cloud & Tools
 
-* AWS
-* Git
-* GitHub
-* VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+</p>
 
 ---
 
-## 📂 Featured Project
+## 🚀 Featured Project
 
 ### 📝 Coding Practice Session Logger
 
-A C-based application developed to help students track and analyze their coding practice sessions.
+A **C-based application** designed to help students track and analyze their coding practice sessions.
 
-**Features:**
+### ✨ Features
 
 * 📌 Record coding topics
-* ⏱️ Track time spent
+* ⏱️ Track time spent on coding
 * 📊 Track difficulty levels
 * 📈 Generate progress summaries
-* 🎯 Monitor learning efficiency
+* 🎯 Monitor learning progress
+* 💾 Maintain coding practice records
 
-The project was created to make coding practice tracking simple and organized.
+The project helps users understand how much time they spend on different coding topics and monitor their learning progress.
 
 ---
 
-## ☁️ Certifications
+## 🎓 Certifications
 
-* 🎓 AWS Academy Graduate – Generative AI Foundations
-* 🎓 AWS Academy Graduate – Machine Learning Foundations
-* 🎓 AWS Academy Graduate – Machine Learning for Natural Language Processing
-* 🎓 AWS Academy Graduate – Cloud Foundations
+* 🏆 AWS Academy Graduate – Generative AI Foundations
+* 🏆 AWS Academy Graduate – Machine Learning Foundations
+* 🏆 AWS Academy Graduate – Machine Learning for Natural Language Processing
+* 🏆 AWS Academy Graduate – Cloud Foundations
 * 🐍 Python 101 for Data Science – IBM
 * 🤖 Gen AI Tools – NASSCOM
 * 💡 Digital Edge 101 – NASSCOM
@@ -85,42 +96,64 @@ The project was created to make coding practice tracking simple and organized.
 
 ## 📚 Currently Learning
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Data Science
-        ↓
-Generative AI
-        ↓
-Cloud Computing
-        ↓
-Full Stack Development
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Goals
+## 🎯 My Goals
 
-I use GitHub to:
-
-* 💻 Practice programming
-* 🚀 Build AI/ML projects
-* 📚 Document my learning journey
-* 🔧 Improve my problem-solving skills
+* 🚀 Build real-world AI & ML projects
+* 🧠 Strengthen Machine Learning fundamentals
+* 🤖 Explore Generative AI
+* ☁️ Improve AWS and Cloud Computing skills
+* 💻 Improve programming and problem-solving
+* 🌐 Learn and build more web applications
+* 🤝 Gain internship and industry experience
 * 🌱 Contribute to open-source projects
-* 🤝 Collaborate with other developers
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthichepuri&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthichepuri&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=keerthichepuri&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 **Email:** [keerthichepuri7@gmail.com](mailto:keerthichepuri7@gmail.com)
+<p align="left">
+  <a href="mailto:keerthichepuri7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-💻 **GitHub:** [github.com/keerthichepuri](https://github.com/keerthichepuri)
+  <a href="https://github.com/keerthichepuri">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-📍 **India**
+---
+
+## 🌱 A Little More About Me
+
+I believe that **consistent learning and hands-on practice** are the keys to becoming a better developer.
+
+I'm currently focusing on building a strong foundation in **AI & ML**, while also developing my programming, cloud, and software development skills.
 
 ---
 
@@ -130,6 +163,11 @@ I use GitHub to:
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
+</p>
 
-Feel free to explore my repositories and follow my journey in **AI, Machine Learning, and Software Development.**
+<p align="center">
+  Feel free to explore my repositories and follow my journey in 
+  <b>AI, Machine Learning & Software Development.</b>
+</p>
